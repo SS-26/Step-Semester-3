@@ -1,11 +1,6 @@
-com\step\week2\VowelConsonantCounter.class
-com\step\week2\CsvStudentRecordParser.class
-com\step\week2\ProductInventoryCsvParser.class
+com\step\week4\BestTimeToBuyAndSellStock.class
+com\step\week4\ContainsDuplicate.class
+com\step\week4\RotateArray.class
 com\step\StepSemester3.class
-com\step\week2\FileExtensionValidator.class
-com\step\week2\AtmPinLengthValidator.class
-com\step\week2\MaskedPhoneNumberFormatter.class
-com\step\week2\BankTransactionReferenceGenerator.class
-com\step\week2\StopWordFilteredWordFrequencyReport.class
-com\step\week2\WordReversalEncoder.class
-com\step\week2\LibraryIsbnNormalizerValidator.class
+com\step\week4\TwoSum.class
+com\step\week4\MergeTwoSortedArrays.class
