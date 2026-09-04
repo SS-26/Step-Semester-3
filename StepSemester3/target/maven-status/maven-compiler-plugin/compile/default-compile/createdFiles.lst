@@ -1,6 +1,11 @@
 com\step\week4\BestTimeToBuyAndSellStock.class
 com\step\week4\ContainsDuplicate.class
 com\step\week4\RotateArray.class
+com\step\week4\ThreeSum.class
+com\step\week4\FindMinimumInRotatedSortedArray.class
 com\step\StepSemester3.class
+com\step\week4\ProductOfArrayExceptSelf.class
+com\step\week4\MaximumSubarray.class
+com\step\week4\SubarraySumEqualsK.class
 com\step\week4\TwoSum.class
 com\step\week4\MergeTwoSortedArrays.class
